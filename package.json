@@ -2,6 +2,7 @@
   "name": "thepower",
   "private": true,
   "version": "0.1.0",
+  "license": "MIT",
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
